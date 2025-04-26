@@ -2,7 +2,7 @@
 
 # My Portfolio Website
 
-![Portfolio Screenshot](./src/assets/portfolio-screenshot.png) <!-- Add a screenshot if available -->
+![Portfolio Screenshot](./src/assets/myportfolio.png) <!-- Add a screenshot if available -->
 
 A modern, responsive portfolio website built with React to showcase my projects, skills, and professional experience.
 
